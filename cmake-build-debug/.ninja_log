@@ -1,0 +1,7 @@
+# ninja log v5
+6	1652	6933545788884956	CMakeFiles/simple_http_server.dir/main.cpp.obj	5305dc4b214eb9ad
+1	74	6933527549837572	CMakeFiles/simple_http_server.dir/http_tcpServer.cpp.obj	78443f31f5ad7a11
+75	406	6933527553113234	simple_http_server.exe	c81d52c94ccb14b2
+13	1842	6933545790794922	CMakeFiles/simple_http_server.dir/http_tcpserver.cpp.obj	2d4ce2552e448c40
+0	20	0	clean	ed1672674f5755ae
+7	200	6933549240604997	simple_http_server.exe	fd9be1d350f93cdf
